@@ -104,7 +104,7 @@ figure.item {
  figure.item img {
     width: 200px;
     height: 150px;
-    box-shadow: 0 0 50px lightblue;
+    box-shadow: 0 0 40px lightblue;
 }
 
 figure.item figcaption {
